@@ -32,7 +32,9 @@ public class MyAges {
 		
 		//  FOR LOOP. Start a for loop to repeat while age <= your age, like this:
 		//  for ( age=0; age <= yourAge; age +=1 ) {
-		
+		for (age = 0; age<= 14; age +=1) {
+			System.out.println(age);
+		}
 			//  Print the age variable
 		
 		//  End the for loop here
